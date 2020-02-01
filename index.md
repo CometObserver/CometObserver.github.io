@@ -9,7 +9,7 @@ title: 蓝色彗星
 - E-mail:**xingyuan223@gmail.com**
 - WeChat: **LXY825384149**
 - QQ: **825384149**
-- Blog: **<https://www.suisei.com>**
+- Blog: **<https://www.suisei.top>**
 
 ## Education
 

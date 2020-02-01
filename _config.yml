@@ -174,7 +174,7 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
 
 sidebar:
   avatar: # 侧边栏显示的头像
-    enable: true
+    enable: false
     img: //gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
   social:
   - title: xingyuan223@gmail.com # email

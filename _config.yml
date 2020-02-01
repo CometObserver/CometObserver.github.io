@@ -179,28 +179,16 @@ sidebar:
     info: <br/>SYSU17级在读<br/>计科超算方向<br/>永远喜欢水野爱<br/>田宫例四驱车<br/>ASC # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
-  - title: rss
-    href: /atom.xml
-    class: 'fas fa-rss'
-  - title: wu.kan@foxmail.com # email
-    href: mailto:wu.kan@foxmail.com
+  - title: xingyuan223@gmail.com # email
+    href: mailto:xingyuan223@gmail.com
     class: 'fas fa-envelope'
   - title: github
-    href: //github.com/wu-kan
+    href: //github.com/CometObserver
     class: 'fab fa-github'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
-    class: 'fas fa-chart-bar fw'
-  - title: WuK # vjudge
-    href: //vjudge.net/user/WuK
-    class: 'fas fa-smile'
-  - title: 942759535942759535 # qq
+  - title: 825384149 # qq
     class: 'fab fa-qq'
-  - title: Wu-_-Kan # weixin
+  - title: LXY825384149 # weixin
     class: 'fab fa-weixin'
-  - title: zhihu
-    href: //www.zhihu.com/people/wu.kan/activities
-    class: 'fab fa-zhihu'
   nav:
   - title: '<i class="fas fa-home fa-fw"></i> 首页'
     href: /
@@ -271,19 +259,7 @@ post:
       enable: true
       unit: 次
     copyright: '<i class="fab fa-creative-commons"></i> <a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh">BY-SA 4.0</a>（除特别声明或转载文章外）'
-  reward:
-    enable: true
-    text: 如果这篇博客帮助到你，可以请我喝一杯咖啡~
-    img: # 万一真的有人打赏呢~
-    - id: wechat
-      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@d28a045f0b270ca015c3fa3adcc12fa4a7efbebd/public/image/wechatpay.jpg
-    - id: wechatappreciate
-      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@d28a045f0b270ca015c3fa3adcc12fa4a7efbebd/public/image/wechatappreciate.jpg
-    - id: qq
-      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@d28a045f0b270ca015c3fa3adcc12fa4a7efbebd/public/image/qqpay.jpg
-    - id: alipay
-      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@d28a045f0b270ca015c3fa3adcc12fa4a7efbebd/public/image/alipay.jpg
-
+ 
 valine:
   enable: true
   autoloader: /public/js/valine.js

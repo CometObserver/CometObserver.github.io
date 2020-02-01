@@ -1,17 +1,14 @@
 ---
 layout: index
-title: 星合の空
+title: 蓝色彗星
 ---
 ## Contact
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
-- E-mail:
-  - **wu.kan@foxmail.com**
-  - **wukan3@mail2.sysu.edu.cn**
-  - **im.wu.kan@gmail.com**
-- WeChat: **Wu-_-Kan**
-- QQ: **1111111**
+- University: **Nanjing University of Information Science and Technology**
+- Phone: **+86 17626025223**
+- E-mail:**xingyuan223@gmail.com**
+- WeChat: **LXY825384149**
+- QQ: **825384149**
 - Blog: **<https://wu-kan.github.io>**
 
 ## Education

@@ -185,10 +185,7 @@ sidebar:
   - title: github
     href: //github.com/CometObserver
     class: 'fab fa-github'
-  - title: 825384149 # qq
-    class: 'fab fa-qq'
-  - title: LXY825384149 # weixin
-    class: 'fab fa-weixin'
+
   nav:
   - title: '<i class="fas fa-home fa-fw"></i> 首页'
     href: /

@@ -219,24 +219,24 @@ sidebar:
   last_edit:
     enable: true
     alert: <i class="fas fa-user-edit fa-fw"></i>
-  run_time:
-    enable: true
-    src: /public/js/run_time.js
-    start_time: '10/04/2017 11:03:56' # 这是我第一篇CSDN博客的时间
-    alert: <i class="fas fa-cog fa-spin fa-fw"></i>
-    day: 天
-    hour: 时
-    minute: 分
-    second: 秒
-  copyright:
-    enable: true
-    text: '<script async defer src="https://buttons.github.io/buttons.js"></script><a class="github-button" aria-label="Star wu-kan/wu-kan.github.io on GitHub" href="https://github.com/wu-kan/wu-kan.github.io" data-icon="octicon-star" data-show-count="true">Star</a>'
+  # run_time:
+  #   enable: true
+  #   src: /public/js/run_time.js
+  #   start_time: '10/04/2017 11:03:56' # 这是我第一篇CSDN博客的时间
+  #   alert: <i class="fas fa-cog fa-spin fa-fw"></i>
+  #   day: 天
+  #   hour: 时
+  #   minute: 分
+  #   second: 秒
+  # copyright:
+  #   enable: true
+  #   text: '<script async defer src="https://buttons.github.io/buttons.js"></script><a class="github-button" aria-label="Star wu-kan/wu-kan.github.io on GitHub" href="https://github.com/wu-kan/wu-kan.github.io" data-icon="octicon-star" data-show-count="true">Star</a>'
 
 index:
   showtag:
-  - 人生经验
-  - ICPC模板
-  - 水野爱
+  - JAVA
+  - 数据库
+  - 数据结构和算法
 
 post:
   meta:
@@ -260,7 +260,7 @@ valine:
   src: //cdn.jsdelivr.net/npm/valine
   appId: 9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz
   appKey: NJ7RwmgrxsF7KDzlqU7YewlL
-  notify: true # 评论回复邮件提醒
+  notify: false # 评论回复邮件提醒
   verify: true # 验证码服务
   avatar: identicon
   placeholder: 在这里评论吧！

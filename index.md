@@ -13,7 +13,7 @@ title: 蓝色彗星
 
 ## Education
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 2017 - Jul. 2021(expected)
+Nanjing University of Information Science and Technology, Nanjing, Sept. 2016 - Jul. 2020
 
 - Bachelor of Computer Science (Supercomputer Class)
   - Principle of Supercomputer

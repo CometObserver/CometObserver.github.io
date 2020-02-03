@@ -1,11 +1,9 @@
 ---
-layout: post
-title: 简历
-tags:
-- JAVA
+title: 程设项目二：圣杯战争
+categories: JAVA
+date: 2018-10-16 11:08:03
 ---
 
-<center><font size=8 style="font-weight:bold;">个人简历</font></center>
 ##简介
 * 姓名：路行远               
 * 籍贯：江苏

@@ -8,7 +8,7 @@ title: 蓝色彗星
 - Phone: **+86 17626025223**
 - E-mail:**xingyuan223@gmail.com**
 - WeChat: **LXY825384149**
-- QQ: **825384149**
+- QQ: **8253841491234**
 - Blog: **<https://www.suisei.top>**
 
 ## Education

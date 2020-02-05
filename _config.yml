@@ -241,7 +241,7 @@ index:
 post:
   meta:
     enable: true
-    date: false
+    date: true
     wordcount:
       enable: true
       unit: 字

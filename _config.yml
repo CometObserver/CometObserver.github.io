@@ -258,12 +258,12 @@ valine:
   enable: true
   autoloader: /public/js/valine.js
   src: //cdn.jsdelivr.net/npm/valine
-  appId: 9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz
-  appKey: NJ7RwmgrxsF7KDzlqU7YewlL
+  appId: ND0LpNosIIOsJ1dMrm4PpdDO-gzGzoHsz
+  appKey: FhHFRYEFr41r4N7GryQfQ34u
   notify: false # 评论回复邮件提醒
   verify: true # 验证码服务
   avatar: identicon
-  placeholder: 在这里评论吧！
+  placeholder: 留下你的评论吧！٩(๑❛ᴗ❛๑)۶
   visitor: true # 文章访问量统计
   highlight: true # 代码高亮
   avatarForce: false # 每次访问强制拉取最新的评论列表头像

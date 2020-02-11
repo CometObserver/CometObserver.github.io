@@ -34,9 +34,6 @@ TBD
 ## Skill
 
 - **C/C++**, Familiar
-  - **OpenMP**, Familiar
-  - **MPI**, Familiar&Learning
-  - **CUDA**, Learning
 - **Python**, Familiar
 - **Markdown**, Familiar
 - **LaTex**, Familiar

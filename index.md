@@ -33,9 +33,7 @@ TBD
 ## Skill
 
 - **C/C++**, Familiar
-- **Python**, Familiar
 - **Markdown**, Familiar
-- **LaTex**, Familiar
 - **Linux**, Familiar&Learning
 - **Git**, Familiar
 - **VSCode**, Familiar

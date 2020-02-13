@@ -35,9 +35,7 @@ TBD
 - **C/C++**, Familiar
 - **Markdown**, Familiar
 - **Linux**, Familiar&Learning
-- **Git**, Familiar
 - **VSCode**, Familiar
-
 ## Leadership
 
 TBD

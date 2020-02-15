@@ -24,7 +24,7 @@ Nanjing University of Information Science and Technology, Nanjing, Sept. 2016 - 
 - **Second Scholarship**, Oct. 2019
 - **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2019
 - **Third Scholarship**, Oct. 2018
-- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018
+- **First Prize**, China Collegiate Programming Contest, Guangdong Division, 
 
 ## Project
 

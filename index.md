@@ -15,7 +15,7 @@ title: 蓝色彗星
 
 Nanjing University of Information Science and Technology, Nanjing, Sept. 2016 - Jul. 2020
 
-- Bachelor of Computer Science (Supercomputer Class)
+- Bachelor of Computer Science 
 
 
 ## Honor

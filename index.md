@@ -19,10 +19,10 @@ Nanjing University of Information Science and Technology, Nanjing, Sept. 2016 - 
 
 
 ## Honor&Leadership
-- **Third Scholarship**
-- **CET-4：615；CET-6：534**
-- **Assistant class monitor**
-- **Head of Organization Department**
+- **Third Scholarship**, 2019
+- **CET-4：615；CET-6：534**, 2016&2017
+- **Assistant class monitor**, 2016&2017
+- **Head of Organization Department**, 2018&2019
 
 
 ## Skill
@@ -30,15 +30,24 @@ Nanjing University of Information Science and Technology, Nanjing, Sept. 2016 - 
 - **HTML/CSS/JavaScript**, Familiar
 - **ECMAScript6**, Familiar
 - **Vue/Vue-router/Vuex**, Familiar
-- **ECMAScript6**, Familiar
-- **ECMAScript6**, Familiar
-- **ECMAScript6**, Familiar
+- **JQuery**, Familiar
+- **Node.js**, Familiar
+- **Data Structure and Algorithm**, Familiar
+- **SQL&NoSQL**, Familiar
+- **Java/Spring/SpringMVC/Mybatis**, Understand
+- **React/React Native**, Understand
+
+
+## Tool
+
 - **Markdown**, Familiar
-- **Linux**, Familiar&Learning
+- **MySQL**, Familiar
 - **VSCode**, Familiar
-  
+- **IntelliJ IDEA**, Familiar
+- **MyEclipse 2017**, Familiar
+- **Visual paradigm**, Understand
+- **Rational Rose**, Understand
 
-## Project
 
-TBD
+
 

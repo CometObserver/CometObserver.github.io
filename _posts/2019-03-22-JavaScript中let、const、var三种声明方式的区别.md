@@ -65,11 +65,11 @@ PI = 3;
 
 但是，并不是说 const 声明的变量其内部内容不可变，如：
 ```
-    const obj = {a:1,b:2};
-    console.log(obj.a);//1
-    obj.a = 2;
-    console.log(obj.a);//2
-    obj = {};//报错
+const obj = {a:1,b:2};
+console.log(obj.a);//1
+obj.a = 2;
+console.log(obj.a);//2
+obj = {};//报错
 ```
 上面代码中，常量obj储存的是一个地址，这个地址指向一个对象。不可变的只是这个地址，即不能把obj指向另一个地址，但对象本身是可变的，所以依然可以为其添加新属性。
 
@@ -81,7 +81,26 @@ var a = 1;
 ```
 上面的代码等同于：
 ```
-    var a;
-    console.log(a);//undefined
-    a = 1;
+var a;
+console.log(a);//undefined
+a = 1;
 ```
+
+let和const命令改变了语法行为，它所声明的变量一定要在声明后使用，否则报错。即不存在变量提升，例：
+```
+// let 的情况
+console.log(bar); // 报错ReferenceError
+let bar = 2;
+
+// const 的情况
+console.log(foo); // 报错ReferenceError
+const foo = 2;
+```
+
+## 总结
+| var         | let    | const    |
+|-------------|---------|---------|
+| 函数作用域   |块级作用域|块级作用域|
+| 变量提升  | 变量不提升  |变量不提升|
+| /        | 存在暂时性死区|存在暂时性死区 |
+| 允许重复声明| 不能重复声明 | 不能修改 |

@@ -1,6 +1,6 @@
 ---
 title: JavaScript中let/const/var三种声明方式的区别
-tags: 数据库
+tags: Web前端
 categories: 
 - JavaScript
 - ECMAScript6

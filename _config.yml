@@ -174,8 +174,8 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: //r.photo.store.qq.com/psc?/V11Qj59Y1JRguu/fFWTTr*vfq2.Z2Ez3gOL3TstnjH3Z1zCLrUU.oLm96W1x.aYRH*7h2.Mbc0BGSWMolsNsxiatsmGMvus9H.g8Q!!/r&ek=1&kp=1&pt=0&bo=pgGTAqYBkwIDORw!&tl=1&vuin=3024703845&tm=1582884000&sce=60-0-0&rf=viewer_4&t=5
-      #//gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
+    img: //r.photo.store.qq.com/psc?/V11Qj59Y1JRguu/xBqlYxewEGhxwKHKc.e8gYbsyGiwTR2Ej3Ja5.50lHjn9eHH9sM7EFpSRID89ooX34QQ54XW.HxeD05W*MfiKfOk.YovVvIBAOvpmOYtrug!/r
+      # 头像的地址
   social:
   - title: xingyuan223@gmail.com # email
     href: mailto:xingyuan223@gmail.com

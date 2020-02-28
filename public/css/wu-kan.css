@@ -1,6 +1,7 @@
 @media (min-width: 70em) {
   body {
-    background-image:url(//r.photo.store.qq.com/psc?/V11Qj59Y1JRguu/xBqlYxewEGhxwKHKc.e8gQY594c6KOCEgm0e4it3k51h4gSS61VH8.BzgxBh0cc9cTHT4UD9YRENEf3mvMuSeTP6GrsbuLCR.wJQpsvXlmM!/r)
+    background-image:
+    url(//r.photo.store.qq.com/psc?/V11Qj59Y1JRguu/xBqlYxewEGhxwKHKc.e8gQY594c6KOCEgm0e4it3k51h4gSS61VH8.BzgxBh0cc9cTHT4UD9YRENEf3mvMuSeTP6GrsbuLCR.wJQpsvXlmM!/r);
     /* url(//cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@d28a045f0b270ca015c3fa3adcc12fa4a7efbebd/public/image/background.jpg); */
     background-size: 100%;
     background-repeat: no-repeat;

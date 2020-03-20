@@ -4,7 +4,7 @@ tags: Web前端
 categories: 
 - ES6
 - JavaScript
-date: 2019-04-20 
+date: 2020-02-20 
 ---
 
 1. export与export default均可用于导出常量、函数、文件、模块等

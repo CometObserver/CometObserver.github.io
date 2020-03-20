@@ -3,7 +3,7 @@ title: JavaScript中常见错误类型和异常处理机制
 tags: Web前端
 categories: 
 - JavaScript
-date: 2019-04-02
+date: 2019-02-05
 ---
 
 ## 常见错误类型

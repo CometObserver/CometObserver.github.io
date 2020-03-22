@@ -30,12 +30,11 @@ Nanjing University of Information Science and Technology, Nanjing, Sept. 2016 - 
 - **HTML/CSS/JavaScript**, Familiar
 - **ECMAScript6**, Familiar
 - **Vue/Vue-router/Vuex**, Familiar
-- **JQuery**, Familiar
+- **Express**, Familiar
 - **Node.js**, Familiar
+- **Design Patterns**, Understand
 - **Data Structure and Algorithm**, Familiar
 - **SQL&NoSQL**, Familiar
-- **Java/Spring/SpringMVC/Mybatis**, Understand
-- **React/React Native**, Understand
 
 
 ## Tool

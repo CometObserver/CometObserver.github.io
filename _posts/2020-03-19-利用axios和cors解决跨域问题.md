@@ -9,9 +9,10 @@ date: 2020-03-19
 ---
 
 ## 什么是跨域
-当一个请求url的协议、域名、端口三者之间任意一个与当前页面url不同即为跨域。<br/>
-|当前页面url |	被请求页面url |	是否跨域 |	原因| 
--------------|---------|-------------|---------|
+当一个请求url的协议、域名、端口三者之间任意一个与当前页面url不同即为跨域。
+
+| 当前页面url | 被请求页面url | 是否跨域 |原因|
+|---|---|---|---|
 |http://www.test.com/ | http://www.test.com/index.html | 否 | 同源（协议、域名、端口号相同）|
 |http://www.test.com/ | https://www.test.com/ | 跨域 | 协议不同（http/https）|
 |http://www.test.com/ | http://www.baidu.com/ | 跨域 | 主域名不同（test/baidu）|
